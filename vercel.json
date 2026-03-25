@@ -1,0 +1,14 @@
+{
+  "buildCommand": "",
+  "devCommand": "",
+  "installCommand": "",
+  "public": false,
+  "outputDirectory": ".",
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "/index.html"
+    }
+  ]
+}
