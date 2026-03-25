@@ -1,0 +1,12 @@
+{
+  "name": "oreva-space",
+  "version": "1.0.0",
+  "description": "Academic library portal",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -c-1",
+    "start": "npx http-server -p 3000 -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
